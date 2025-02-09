@@ -30,7 +30,7 @@ def print_interactive_menu():
 def num2words_kabyle(n):
     # Base dictionary for numbers up to 101 and common tens.
     base = {
-        0: "sifr", 1: "yiwen", 2: "sin", 3: "tlata", 4: "rebɛa",
+        0: "walu", 1: "yiwen", 2: "sin", 3: "tlata", 4: "rebɛa",
         5: "xemsa", 6: "setta", 7: "sebɛa", 8: "tmanya", 9: "ttesɛa",
         10: "ɛecra", 11: "ḥḍac", 12: "tnac", 13: "telṭac", 14: "rbeɛṭac",
         15: "xemsṭac", 16: "seṭṭac", 17: "sbeɛṭac", 18: "tmenṭac", 19: "tseɛṭac",
